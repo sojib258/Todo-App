@@ -1,0 +1,31 @@
+.showListItem {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 10px 0px 20px 0px;
+  border-bottom: 1px solid white;
+}
+.showListTaskContent {
+  width: 60%;
+  height: auto;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 15px;
+}
+.showListRightItems {
+  width: 38%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inputLabel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.label {
+  color: white;
+  margin-right: 4px;
+}

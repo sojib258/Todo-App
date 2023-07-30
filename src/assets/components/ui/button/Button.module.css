@@ -1,0 +1,13 @@
+.btn {
+  min-width: 60px;
+  padding: 6px 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.mr {
+  margin-right: 10px;
+}

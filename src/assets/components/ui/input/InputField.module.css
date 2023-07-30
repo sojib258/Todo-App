@@ -1,0 +1,19 @@
+.input {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: 1rem;
+}
+.input:focus {
+  outline: none;
+}
+.input__text {
+  padding: 12px 6px;
+  margin-bottom: 15px;
+}
+.input__checkbox {
+  cursor: pointer !important;
+}

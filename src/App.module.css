@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.todo {
+  width: 50%;
+  height: auto;
+  background-color: blueviolet;
+  padding: 20px;
+  margin: 30px auto 0px auto;
+  border-radius: 10px;
+}
+
+.noTask {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: white;
+}
+
+.mr {
+  margin-right: 15px;
+}
+
+.label {
+  color: white;
+  font-weight: bold;
+  margin-right: 5px;
+}
